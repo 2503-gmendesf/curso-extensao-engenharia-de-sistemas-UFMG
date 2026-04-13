@@ -1,0 +1,29 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="720" rx="36" fill="#0B0F16"/>
+  <rect x="58" y="54" width="1084" height="612" rx="28" fill="url(#paint0_linear)"/>
+  <circle cx="184" cy="160" r="54" fill="#00BCD4" fill-opacity="0.25"/>
+  <circle cx="1010" cy="130" r="72" fill="#00BCD4" fill-opacity="0.12"/>
+  <rect x="110" y="124" width="466" height="216" rx="24" fill="#111827"/>
+  <text x="144" y="182" fill="#E6E6E6" font-family="Arial, sans-serif" font-size="44" font-weight="700">Curso em destaque</text>
+  <text x="144" y="234" fill="#9AA0A6" font-family="Arial, sans-serif" font-size="26">Formação conectando requisitos, arquitetura</text>
+  <text x="144" y="270" fill="#9AA0A6" font-family="Arial, sans-serif" font-size="26">integração e validação de sistemas.</text>
+  <rect x="144" y="294" width="168" height="18" rx="9" fill="#00BCD4"/>
+  <rect x="110" y="382" width="270" height="214" rx="22" fill="#141B29"/>
+  <rect x="402" y="382" width="330" height="214" rx="22" fill="#141B29"/>
+  <rect x="754" y="168" width="316" height="428" rx="26" fill="#121725"/>
+  <circle cx="250" cy="476" r="54" fill="#00BCD4" fill-opacity="0.18"/>
+  <circle cx="250" cy="476" r="36" fill="#00BCD4"/>
+  <path d="M211 553C220 512 251 484 289 484C327 484 358 512 367 553" stroke="#E6E6E6" stroke-width="16" stroke-linecap="round"/>
+  <path d="M809 258H1018" stroke="#00BCD4" stroke-width="16" stroke-linecap="round"/>
+  <path d="M809 316H1018" stroke="#E6E6E6" stroke-opacity="0.82" stroke-width="14" stroke-linecap="round"/>
+  <path d="M809 364H988" stroke="#E6E6E6" stroke-opacity="0.55" stroke-width="14" stroke-linecap="round"/>
+  <rect x="450" y="424" width="236" height="32" rx="16" fill="#00BCD4" fill-opacity="0.2"/>
+  <path d="M450 504H666" stroke="#E6E6E6" stroke-opacity="0.7" stroke-width="14" stroke-linecap="round"/>
+  <path d="M450 544H620" stroke="#E6E6E6" stroke-opacity="0.45" stroke-width="14" stroke-linecap="round"/>
+  <defs>
+    <linearGradient id="paint0_linear" x1="600" y1="54" x2="600" y2="666" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#131A28"/>
+      <stop offset="1" stop-color="#0E121B"/>
+    </linearGradient>
+  </defs>
+</svg>

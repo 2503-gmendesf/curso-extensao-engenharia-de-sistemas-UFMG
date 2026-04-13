@@ -55,6 +55,8 @@ Isso facilita a edição direta no GitHub, porque cada página tem seu conteúdo
 - Conteúdo de uma página: edite o arquivo HTML correspondente
 - Visual do site: edite `assets/css/style.css`
 - Comportamento do menu mobile e FAQ: edite `assets/js/main.js`
+- Imagens e modelos gráficos da home: edite ou substitua os arquivos em `assets/media/`
+- Vídeo da home: substitua `assets/media/apresentacao-curso.mp4` por um vídeo real mantendo o mesmo nome
 
 ## Observação
 

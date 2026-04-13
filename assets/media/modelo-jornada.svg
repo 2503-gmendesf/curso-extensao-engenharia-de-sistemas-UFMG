@@ -1,0 +1,21 @@
+<svg width="900" height="620" viewBox="0 0 900 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="620" rx="30" fill="#0C111A"/>
+  <text x="64" y="96" fill="#E6E6E6" font-family="Arial, sans-serif" font-size="38" font-weight="700">Jornada do curso</text>
+  <text x="64" y="132" fill="#9AA0A6" font-family="Arial, sans-serif" font-size="22">Modelo gráfico fácil de substituir no repositório.</text>
+  <path d="M120 358C204 358 204 228 288 228C372 228 372 410 456 410C540 410 540 262 624 262C708 262 708 358 792 358" stroke="#00BCD4" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="120" cy="358" r="22" fill="#00BCD4"/>
+  <circle cx="288" cy="228" r="22" fill="#00BCD4"/>
+  <circle cx="456" cy="410" r="22" fill="#00BCD4"/>
+  <circle cx="624" cy="262" r="22" fill="#00BCD4"/>
+  <circle cx="792" cy="358" r="22" fill="#00BCD4"/>
+  <rect x="70" y="446" width="136" height="84" rx="18" fill="#151C2A"/>
+  <rect x="238" y="112" width="136" height="84" rx="18" fill="#151C2A"/>
+  <rect x="406" y="478" width="136" height="84" rx="18" fill="#151C2A"/>
+  <rect x="574" y="146" width="136" height="84" rx="18" fill="#151C2A"/>
+  <rect x="724" y="446" width="136" height="84" rx="18" fill="#151C2A"/>
+  <text x="93" y="490" fill="#E6E6E6" font-family="Arial, sans-serif" font-size="22" font-weight="700">Base</text>
+  <text x="256" y="156" fill="#E6E6E6" font-family="Arial, sans-serif" font-size="22" font-weight="700">Requisitos</text>
+  <text x="432" y="522" fill="#E6E6E6" font-family="Arial, sans-serif" font-size="22" font-weight="700">Arquitetura</text>
+  <text x="617" y="190" fill="#E6E6E6" font-family="Arial, sans-serif" font-size="22" font-weight="700">Integração</text>
+  <text x="753" y="490" fill="#E6E6E6" font-family="Arial, sans-serif" font-size="22" font-weight="700">Validação</text>
+</svg>

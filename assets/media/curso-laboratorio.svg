@@ -1,0 +1,25 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="720" rx="36" fill="#091019"/>
+  <rect x="72" y="70" width="1056" height="580" rx="28" fill="#101827"/>
+  <rect x="112" y="122" width="448" height="316" rx="24" fill="#131F32"/>
+  <rect x="606" y="122" width="482" height="150" rx="24" fill="#131F32"/>
+  <rect x="606" y="294" width="482" height="302" rx="24" fill="#131F32"/>
+  <circle cx="225" cy="256" r="94" fill="#00BCD4" fill-opacity="0.15"/>
+  <path d="M185 300L222 250L260 278L325 208" stroke="#00BCD4" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="185" cy="300" r="11" fill="#00BCD4"/>
+  <circle cx="222" cy="250" r="11" fill="#00BCD4"/>
+  <circle cx="260" cy="278" r="11" fill="#00BCD4"/>
+  <circle cx="325" cy="208" r="11" fill="#00BCD4"/>
+  <text x="148" y="392" fill="#E6E6E6" font-family="Arial, sans-serif" font-size="38" font-weight="700">Integração de sistemas</text>
+  <text x="148" y="432" fill="#9AA0A6" font-family="Arial, sans-serif" font-size="24">Laboratório visual com arquitetura, análise</text>
+  <text x="148" y="466" fill="#9AA0A6" font-family="Arial, sans-serif" font-size="24">e validação em fluxo contínuo.</text>
+  <path d="M648 174H1037" stroke="#00BCD4" stroke-width="16" stroke-linecap="round"/>
+  <path d="M648 216H982" stroke="#E6E6E6" stroke-opacity="0.72" stroke-width="14" stroke-linecap="round"/>
+  <rect x="652" y="348" width="116" height="116" rx="22" fill="#00BCD4" fill-opacity="0.14"/>
+  <rect x="789" y="348" width="116" height="116" rx="22" fill="#00BCD4" fill-opacity="0.22"/>
+  <rect x="926" y="348" width="116" height="116" rx="22" fill="#00BCD4" fill-opacity="0.1"/>
+  <path d="M710 493V548" stroke="#00BCD4" stroke-width="12" stroke-linecap="round"/>
+  <path d="M847 493V548" stroke="#00BCD4" stroke-width="12" stroke-linecap="round"/>
+  <path d="M984 493V548" stroke="#00BCD4" stroke-width="12" stroke-linecap="round"/>
+  <path d="M710 548H984" stroke="#E6E6E6" stroke-opacity="0.45" stroke-width="12" stroke-linecap="round"/>
+</svg>
