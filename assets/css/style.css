@@ -499,4 +499,62 @@ h3 {
   .mini-metrics {
     grid-template-columns: 1fr;
   }
+
+  .teacher-list {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.teacher-card {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+  padding: 20px;
+}
+
+.teacher-photo {
+  width: 120px;
+  height: 120px;
+  flex-shrink: 0;
+  border-radius: 14px;
+  overflow: hidden;
+  background: #eee;
+}
+
+.teacher-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.teacher-content h3 {
+  margin: 0 0 10px 0;
+}
+
+.teacher-content p {
+  margin: 0 0 12px 0;
+  line-height: 1.6;
+}
+
+.teacher-link {
+  margin: 0;
+}
+
+.teacher-link a {
+  word-break: break-word;
+}
+
+/* RESPONSIVO PARA CELULAR */
+@media (max-width: 768px) {
+  .teacher-card {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .teacher-photo {
+    width: 100px;
+    height: 100px;
+  }
+}
 }
