@@ -1096,13 +1096,9 @@ h3 {
 
 @media (max-width: 768px) {
   .media-card img {
-    width: 100%;
     height: auto;
+    max-height: 320px;
     object-fit: contain;
-  }
-
-  .media-card {
-    padding: 12px;
-    background: #07090d;
+    background: #07090d; /* evita fundo vazio feio */
   }
 }
