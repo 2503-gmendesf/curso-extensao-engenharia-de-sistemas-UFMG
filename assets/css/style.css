@@ -537,6 +537,26 @@ h3 {
   color: var(--accent);
 }
 
+.menu a {
+  display: block;
+  padding: 12px 14px;
+  border-radius: 10px;
+  color: #cfcfe6;
+  text-decoration: none;
+  transition: 0.2s ease;
+}
+
+.menu a:hover {
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.menu a.active {
+  background: rgba(0, 188, 212, 0.18);
+  color: #00bcd4;
+  font-weight: 700;
+  border-left: 4px solid #00bcd4;
+}
+
 /* ===========================
    ALERTA (CASO USE)
 =========================== */
