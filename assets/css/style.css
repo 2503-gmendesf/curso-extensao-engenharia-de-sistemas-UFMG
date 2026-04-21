@@ -1087,3 +1087,9 @@ h3 {
     font-size: 1.55rem;
   }
 }
+
+@media (max-width: 900px) {
+  .info-sidebar {
+    display: none !important;
+  }
+}
